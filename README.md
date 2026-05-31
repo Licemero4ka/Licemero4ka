@@ -1,14 +1,14 @@
 # Egor Panteleev
 
-QA Engineer focused on building AI-powered testing tools.
+QA Engineer · Ukraine
 
-Currently building **[qara-agent](https://github.com/Licemero4ka/qara-agent)** — a Claude Code workspace with custom skills, lifecycle hooks, and persistent memory for QA workflows — and **[mnemosyne](https://github.com/Licemero4ka/mnemosyne)** — a zero-dependency, sub-millisecond memory system for AI agents.
+Interested in test automation, AI tooling, and building things that make testing faster and smarter.
 
 ---
 
 **Stack:** Python · Java · GraphQL · Playwright · Postman  
-**Tools:** Claude Code · Jira · TestRail  
-**Studying:** Telecommunications & Radioengineering — Kharkiv Aviation Institute, Ukraine
+**Tools:** Jira · TestRail  
+**Studying:** Telecommunications & Radioengineering — Kharkiv Aviation Institute
 
 ---
 
