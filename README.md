@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licemero4ka&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Licemero4ka&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
